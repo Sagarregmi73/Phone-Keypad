@@ -1,0 +1,36 @@
+#phone button {
+    height: 50px;
+    width: 75px;
+border-radius: 10px ;
+  }
+  #phone button span  {
+    display: block;
+    margin-top: 5px;
+    font-size: 10px;
+  }
+  #result{
+    width: 225px;
+    height: 25px;
+    margin-left:2px;
+  }
+
+  body{
+      background-color: black;
+      
+  }
+  span{
+      color:red;
+  }
+  
+  input{
+      border-radius: 10px;
+  }
+  table{
+      height:250px;
+      width:250px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow:  2px 5px yellowgreen;
+      margin:auto 40%;
+      margin-top: 10%;
+  }
